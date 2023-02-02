@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
 
-  ![Images/landingResize.png](Images/landingResize.png)
+ ![image](https://user-images.githubusercontent.com/111789352/216379093-9b71d0ee-7549-45d2-83b3-420639fc9768.png)
 
 ## Before You Begin
 
@@ -115,33 +115,33 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![image](https://user-images.githubusercontent.com/111789352/216379364-51b927a2-c982-4d26-b467-8607bbe348b0.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![image](https://user-images.githubusercontent.com/111789352/216379398-0489b9f7-1cdc-4dc3-8a46-985679b4de83.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![image](https://user-images.githubusercontent.com/111789352/216379453-e6e45ed5-1997-41c3-9651-9b6d74b4f58a.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![image](https://user-images.githubusercontent.com/111789352/216379538-2326bfae-054a-4b05-ae6f-8e71a3967a1c.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![image](https://user-images.githubusercontent.com/111789352/216379693-81fc4631-48d1-4a2f-aeed-476830f90e29.png)
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![image](https://user-images.githubusercontent.com/111789352/216379801-4985f170-b2e9-4831-a7b2-0ee6d65c644c.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -149,19 +149,19 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![image](https://user-images.githubusercontent.com/111789352/216379885-b9471a95-6c73-4a2e-9014-383cd6448914.png)
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![image](https://user-images.githubusercontent.com/111789352/216379927-6e170d58-6b8c-4bbe-9126-6637a8debb4c.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![image](https://user-images.githubusercontent.com/111789352/216379982-0183e93d-41f0-4720-a586-42eb7dad6a0a.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+![image](https://user-images.githubusercontent.com/111789352/216380015-c37f45ad-84bb-4172-9943-f0503205fc44.png)
 
 ## Rubric
 
